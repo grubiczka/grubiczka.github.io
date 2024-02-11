@@ -1,0 +1,27 @@
+body {
+	background: #FCF1F4;
+	margin: auto;
+	max-width:1000px;
+}
+
+.top {
+	background: #F6C8D4;
+	border: 3px solid #acacac;
+	margin: 20px 0px;
+	text-align: center;
+}
+
+.menu .footer {
+	background: #cccccc;
+	text-align: center;
+	border: 3px solid #B7516C;
+}
+
+.kim-jestem {
+	margin:0px 15px; 
+}
+
+a {
+	color: #C63333;
+	font-size: 18px;
+}
